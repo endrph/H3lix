@@ -3,7 +3,7 @@
 ![Helix Icon](icon.JPG)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram)](@helixcloudrobot)
+[![Telegram](https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram)]
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg?logo=python)](https://www.python.org/)
 [![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](#)
 
@@ -21,7 +21,7 @@ After uploading, the bot returns a **permanent shareable link** that can be used
 
 ## How to Use
 
-1. Start a chat with the bot
+1. Start a chat with the bot @helixcloudrobot
 2. Send any supported file
 3. Receive a unique link for sharing
 4. Anyone with the link can access the file
