@@ -28,7 +28,7 @@ After uploading, the bot returns a **permanent shareable link** that can be used
 
 ## Updates 
 
-Information about new updates is posted in the Telegram channel @hlxupdates.
+Information about new updates is posted in the [Telegram channel](https://t.me/hlxupdates)
 
 ## Authors
 
