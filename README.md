@@ -26,6 +26,10 @@ After uploading, the bot returns a **permanent shareable link** that can be used
 3. Receive a unique link for sharing
 4. Anyone with the link can access the file
 
+## Updates 
+
+Information about new updates is posted in the Telegram channel @hlxupdates.
+
 ## Authors
 
 - [@id777666](https://t.me/id777666)
