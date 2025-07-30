@@ -34,8 +34,10 @@ Information about new updates is posted in the [Telegram channel](https://t.me/h
 
 - [@id777666](https://t.me/id777666)
 - [@nekokay](https://t.me/nekokay)
-- Website [H3lix](https://h3lix-project.github.io)
----
+
+## Website 
+
+https://h3lix-project.github.io
 
 > 🛡 **Security Note:**  
 > This repository does **not** contain any private tokens or credentials.  
